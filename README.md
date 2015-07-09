@@ -1,2 +1,2 @@
 # mysched
-my scheduling system
+my etl scheduling system
